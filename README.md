@@ -81,7 +81,7 @@ To use the bomber type the following commands in Termux:
 ```shell script
 pkg install git -y 
 pkg install python -y 
-git clone https://github.com/Fsociety133/TBoomb.git
+git clone https://github.com/Fsociety133/TBomb.git
 cd TBomb
 ./TBomb.sh
 ```
@@ -95,7 +95,7 @@ apk add python3
 apk add py3-pip
 apk add ruby
 gem install toilet
-git clone https://github.com/Fsociety133/TBoomb.git
+git clone https://github.com/Fsociety133/TBomb.git
 cd TBomb
 pip3 install -r requirements.txt
 chmod +x TBomb.sh
@@ -107,7 +107,7 @@ chmod +x TBomb.sh
 To use the application, type in the following commands in GNU/Linux terminal.
 ```shell script
 sudo apt install git
-git clone https://github.com/Fsociety133/TBoomb.git
+git clone https://github.com/Fsociety133/TBomb.git
 cd TBomb
 bash TBomb.sh
 ```
@@ -129,7 +129,7 @@ brew install git
 brew install python3
 sudo easy_install pip
 sudo pip install --upgrade pip
-git clone https://github.com/Fsociety133/TBoomb.git
+git clone https://github.com/Fsociety133/TBomb.git
 cd TBomb
 bash TBomb.sh
 ```
@@ -170,7 +170,7 @@ The package `toilet` cannot be installed yet on macOS. But TBomb does still work
 
 **Q:** Is there any TBomb Website/App ?
 
-**A:** There is no official website/app yet.The only official releases of TBomb are published in [Github](https://github.com/Fsociety133/TBoomb) and [PyPi](https://pypi.org/project/tbomb)
+**A:** There is no official website/app yet.The only official releases of TBomb are published in [Github](https://github.com/Fsociety133/TBomb) and [PyPi](https://pypi.org/project/tbomb)
 ##
 **Q:** Poor Internet Connection Detected:
 
